@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Newbie Media Design Inc.]]></title>
         <description><![CDATA[Newbie Media Design Inc.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://babylovedonce.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 20:22:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 02:40:04 GMT</lastBuildDate>
+        <atom:link href="http://babylovedonce.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to our new website! We're excited you're here.]]></title>
-            <description><![CDATA[<article><h1>Welcome to our new website! We're excited you're here.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fff872d769bbd439a64242bdd10c0309de0f921b.png"></article>]]></description>
-            <link>undefinedwelcome-to-our-new-website-were-excited-youre-here/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to our new website! We're excited you're here.</h1><p>Newbie Media Design is a Timmins, Ontario based advertising and marketing agency offering multi-platform design, integrated brand services and strategic marketing consulting & execution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4f123f18c9c470114b366768a30258973d9a346.jpg"></article>]]></description>
+            <link>http://babylovedonce.com/welcome-to-our-new-website-were-excited-youre-here/index.html</link>
             <guid isPermaLink="false">75624b6b-0259-468e-a6af-2bfd5ba119ec</guid>
-            <pubDate>Sun, 17 Jan 2016 20:22:02 GMT</pubDate>
+            <pubDate>Mon, 01 Feb 2016 02:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
